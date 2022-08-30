@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Joomla developer from Russia 🇷🇺, learning Java and Spring Framework</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=telion85&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=telion85&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=telion85&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=telion85&theme=github)
