@@ -3,6 +3,7 @@
 <h3 align="center">Joomla developer from Russia 🇷🇺, learning Java and Spring Framework</h3>
 
 <hr>
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,js,joomla)](https://skillicons.dev)
 <table>
 <tr>
 <td>
