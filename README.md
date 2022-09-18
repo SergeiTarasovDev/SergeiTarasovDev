@@ -3,7 +3,7 @@
 <h3 align="center">Joomla developer from Russia 🇷🇺, learning Java and Spring Framework</h3>
 
 <hr>
-<p>:hammer_and_wrench: Languages and Tools :</p>
+<p><b>:hammer_and_wrench: Languages and Tools :</b></p>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
