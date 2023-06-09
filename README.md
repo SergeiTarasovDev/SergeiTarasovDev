@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/id18440373" target="_blank">Sergey</a> 
+<h1 align="center">Привет, меня зовут <a href="https://vk.com/id18440373" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Joomla developer from Russia 🇷🇺, learning Java and Spring Framework</h3>
+<h3 align="center">Учился на программиста в ВУЗе, программировал на разных языках. Стек на последнем месте работы: PHP, JavaScript, HTML, CSS, Joomla, Virtuemart, сейчас стремлюсь перейти на стек Java + Spring Framework</h3>
 
 <hr>
-<p><b>:hammer_and_wrench: Languages and Tools :</b></p>
+<p><b>:hammer_and_wrench: Языки и инструменты, которыми я владею :</b></p>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -27,12 +27,12 @@
 <table>
 <tr>
 <td>
-<h4>my LeetCode:</h4>
+<h4>LeetCode:</h4>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=telion&theme=dark)](https://github.com/telion85/leetcode-stats)  
 </td>
 <td>  
-  <h4>my stats:</h4>
+  <h4>статистика на github:</h4>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=telion85)](https://git.io/streak-stats)
   
@@ -40,12 +40,11 @@
   
 <tr>
 <td>
-<h4>my languages:</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telion85&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 <td>  
-  <h4>my Trophies:</h4>
+  <h4>github трофеи:</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=telion85)](https://github.com/ryo-ma/github-profile-trophy)
   
