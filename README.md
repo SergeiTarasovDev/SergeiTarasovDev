@@ -49,9 +49,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SergeiTarasovDev)](https://github.com/ryo-ma/github-profile-trophy)
   
 </tr>
-<tr><td colspan=2>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SergeiTarasovDev)](https://github.com/SergeiTarasovDev/github-readme-activity-graph)
-
-  </tr>
 </table>
