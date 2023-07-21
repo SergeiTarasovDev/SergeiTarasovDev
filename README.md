@@ -1,7 +1,8 @@
 <h1 align="center">Привет, меня зовут <a href="https://vk.com/id18440373" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Учился на программиста в ВУЗе, 13 лет программировал на разных языках. Уже 2+ лет изучаю Java + Spring, прошел курсы в Иннополисе и SkyPro, стек на месте стажировки: Java Core, Spring Framework, Hibernate, Maven, PostgreSQL, Liquibase, Junit, Mockito, Postman, Swagger</h3>
-
+<hr>
+<p align="center"><b> +7-905-824-2712 &nbsp; &nbsp; | &nbsp; &nbsp; sergei.tarasov.dev@gmail.com &nbsp; &nbsp; | &nbsp; &nbsp; linkedin.com/in/sergei-tarasov </b></p>
 <hr>
 <p><b>:hammer_and_wrench: Языки и инструменты, которыми я владею :</b></p>
 <div>
