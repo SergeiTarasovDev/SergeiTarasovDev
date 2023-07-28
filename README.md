@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://vk.com/id18440373" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Учился на программиста в ВУЗе, 13 лет программировал на разных языках. Уже 2+ года изучаю Java + Spring, прошел курсы в Иннополисе и SkyPro.
+<h3 align="center">Учился на программиста в ВУЗе, 13 лет программирую на разных языках. Около 2 лет изучаю Java + Spring, прошел курсы в Университете Иннополис и SkyPro. Открыт к предложениям на позиции Java&nbsp;Developer и Data&nbsp;Engineer
 <hr>
 <p align="center"><b> <a href="https://wa.me/79058242712">+7-905-824-2712</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="https://t.me/telion85">@telion85</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="linkedin.com/in/sergei-tarasov">linkedin.com/in/sergei-tarasov</a> </b></p>
 <hr>
