@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Учился на программиста в ВУЗе, 13 лет программировал на разных языках. Уже 2+ года изучаю Java + Spring, прошел курсы в Иннополисе и SkyPro.
 <hr>
-<p align="center"><b> +7-905-824-2712 &nbsp; &nbsp; | &nbsp; &nbsp; sergei.tarasov.dev@gmail.com &nbsp; &nbsp; | &nbsp; &nbsp; linkedin.com/in/sergei-tarasov </b></p>
+<p align="center"><b> <a href="https://wa.me/79058242712">+7-905-824-2712</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="https://t.me/telion85">@telion85</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="linkedin.com/in/sergei-tarasov">linkedin.com/in/sergei-tarasov</a> </b></p>
 <hr>
 <p><b>:hammer_and_wrench: Языки и инструменты, которыми я владею :</b></p>
 <div>
