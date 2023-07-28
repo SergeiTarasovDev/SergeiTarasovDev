@@ -28,9 +28,10 @@
 <table>
 <tr>
 <td>
-<h4>LeetCode:</h4>
+<h4><a href="https://leetcode.com/SergeiTarasovDev/">LeetCode:</a></h4>
+  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sergeitarasovdev&theme=dark)](https://github.com/SergeiTarasovDev/leetcode-stats)  
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=telion&theme=dark)](https://github.com/SergeiTarasovDev/leetcode-stats)  
 </td>
 <td>  
   <h4>статистика на github:</h4>
